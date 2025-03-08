@@ -17,7 +17,7 @@ Storage: Save all raw data files in the data/ directory.
 
 ### 3. Installing Required Libraries
  
- pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
+ pip install pandas numpy sqlalchemy, mysql-connector-python 
 
 ### 4. Data Exploration & Cleaning
 
