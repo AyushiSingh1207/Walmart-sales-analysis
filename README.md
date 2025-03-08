@@ -1,4 +1,4 @@
-# Walmart Data Analysis: End-to-End SQL + Python Project 
+# Walmart Data Analysis: SQL + Python Project 
 
 ### Project Overview
 
@@ -45,9 +45,7 @@ Profitability analysis across different product categories.
 
 ### 7. Documentation & Deployment
 
-Project Documentation: Markdown or Jupyter Notebook.
-
-Version Control: Store all scripts and reports on GitHub.
+Project Documentation: Jupyter Notebook.
 
 ### Project Requirements
 
